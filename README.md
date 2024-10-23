@@ -8,3 +8,6 @@ Folder and its function:\
 **arduino_MQTT**: ESP32 connected to the sensors\
 **esp-csi-master**: branched from espressif esp-csi-master, modified to publish MQTT data\
 **model training**: CSI motion detection model training (python)\
+
+##Demo video:##
+https://www.youtube.com/watch?v=6NtNtSIC_Sk
